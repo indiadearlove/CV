@@ -1,1 +1,43 @@
-# CV
+# India Dearlove
+
+Email - india_dearlove@yahoo.co.uk
+
+I am a web developer who wants to keep learning new languages while writing useful code. The last few months I have been building my skills and learning at Makers Academy. In the near future I would love to join a team making something that I am  interested in.
+
+## Skills
+
+### Ruby
+
+ - Inset link to github page
+
+### HTML/CSS/JQuery/Javascript
+
+ - Thermostat https://github.com/indiadearlove/Thermostat
+
+## Education
+
+### Makers Academy - Dec 2014 - March 2015
+
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular.js, HTML, CSS
+- Rspec, Jasmine, Mocha
+- Working with clients
+
+### University of Exeter - Computer Science and Maths - 2013-2014 (Degree Unfinished)
+
+Dropped out as I was keen to learn coding, rather then the theory of Computer Science and having only a few hours a month of actually getting to code.
+
+ - Python
+
+### King's School Canterbury - 2008-2013
+
+- A-level Maths A*
+- A-level Further Maths B
+- A-level Physics B
+- Free Standing Maths Qualification A
+- British Maths Olympiad -UKMT achieving gold/silver each year (2008-2013) 
+- Southampton University Cipher Challenge (2011/2012 & 2012/2013)
+- Sevenoaks Code-Breaking Challenge (2012)
