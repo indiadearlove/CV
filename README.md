@@ -8,8 +8,6 @@ I am a web developer who wants to keep learning new languages while writing usef
 
 ### Ruby
 
- - Inset link to github page
-
 ### HTML/CSS/JQuery/Javascript
 
  - Thermostat https://github.com/indiadearlove/Thermostat
