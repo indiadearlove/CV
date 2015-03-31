@@ -8,7 +8,7 @@ I am a web developer who wants to keep learning new languages while writing usef
 
 ### Ruby on Rails
 
- - iamME https://github.com/ciawalsh/iamME
+ - iamME https://github.com/indiadearlove/iamME
 
 ### HTML/CSS/JQuery/Javascript
 
