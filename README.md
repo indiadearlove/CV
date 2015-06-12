@@ -2,6 +2,8 @@
 
 I am a web developer who wants to keep learning new languages while writing useful code. I dropped out of university to learn how to code but there is only so much you can learn online, so the last few months I have been building my skills and learning at Makers Academy. I love working in teams, helping to build projects that I am intrested in and learning more as I go along, I hope to keep doing this now that I have finished my course. 
 
+I am currently creating a website for a small buisness
+
 ## Skills
 
 ### Ruby on Rails
